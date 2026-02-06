@@ -1,0 +1,3 @@
+Name:Triveni,subject :Maths,Marks:90.0
+Name:Radha,subject :Science,Marks:96.0
+Name:Vidhya,subject :social,Marks:98.0
